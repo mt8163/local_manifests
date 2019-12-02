@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!-- Common devices for karnak -->
+  <!--device trees for amazon devices -->
   <project name="mt8163/android_device_amazon_karnak" path="device/amazon/karnak" remote="github" revision="lineage-16.0"/>
   <project name="mt8163/android_kernel_amazon_karnak" path="kernel/amazon/karnak" remote="github" revision="lineage-16.0"/>
   <project name="mt8163/android_vendor_amazon_karnak" path="vendor/amazon/karnak" remote="github" revision="lineage-16.0"/>
