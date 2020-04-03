@@ -5,4 +5,5 @@
   <project name="mt8163/android_kernel_amazon_karnak" path="kernel/amazon/karnak" remote="github" revision="lineage-16.0"/>
   <project name="mt8163/android_vendor_amazon_karnak" path="vendor/amazon/karnak" remote="github" revision="lineage-16.0"/>
   <project name="mt8163/android_vendor_amazon_mt8163" path="vendor/amazon/mt8163" remote="github" revision="lineage-16.0"/>
+  <project name="mt8163/android_vendor_raffy" path="vendor/raffy" remote="github" revision="lineage-16.0"/>
 </manifest>
