@@ -6,7 +6,7 @@
   <project name="mt8163/android_device_amazon_karnak" path="device/amazon/karnak" remote="github" revision="lineage-17.1"/>
 
   <!--kernel sources -->
-  <project name="mt8163/android_kernel_amazon_karnak" path="kernel/amazon/karnak" remote="github" revision="lineage-17.1"/>
+  <project name="mt8163/android_kernel_amazon_karnak_4.9" path="kernel/amazon/karnak" remote="github" revision="lineage-17.1"/>
   <project name="mt8163/android_kernel_amazon_douglas" path="kernel/amazon/douglas" remote="github" revision="lineage-16.0"/>
   <project name="mt8163/android_kernel_amazon_mustang" path="kernel/amazon/mustang" remote="github"  revision="cm-14.1"/>
   <project name="mt8163/android_kernel_bq_aquaris_m8" path="kernel/bq/aquaris/m8" remote="github" revision="lineage-15.1"/>
